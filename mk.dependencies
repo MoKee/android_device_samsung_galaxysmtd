@@ -2,17 +2,15 @@
     {
         "repository": "android_packages_apps_SamsungServiceMode",
         "target_path": "packages/apps/SamsungServiceMode",
-        "branch": "cm-10.1",
+        "branch": "cm-10.2",
         "remote": "cyanogen"
     },
     {
         "repository": "MoKee/android_kernel_samsung_aries",
-        "target_path": "kernel/samsung/aries",
-        "branch": "jb-mr1_mkt"
+        "target_path": "kernel/samsung/aries"
     },
     {
         "repository": "MoKee/android_vendor_samsung_galaxysmtd",
-        "target_path": "vendor/samsung/galaxysmtd",
-        "branch": "jb-mr1_mkt"
+        "target_path": "vendor/samsung/galaxysmtd"
     }
 ]
