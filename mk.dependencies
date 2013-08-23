@@ -1,16 +1,24 @@
 [
-    {
-        "repository": "android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode",
-        "branch": "cm-10.2",
-        "remote": "cyanogen"
-    },
-    {
-        "repository": "android_kernel_samsung_aries",
-        "target_path": "kernel/samsung/aries"
-    },
-    {
-        "repository": "android_vendor_samsung_galaxysmtd",
-        "target_path": "vendor/samsung/galaxysmtd"
-    }
+  	{
+    		"repository": "android_packages_apps_SamsungServiceMode",
+		"target_path": "packages/apps/SamsungServiceMode",
+		"branch": "cm-10.2",
+		"remote": "cyanogen"
+	},
+  	{
+		"repository": "android_kernel_samsung_aries",
+		"target_path": "kernel/samsung/aries"
+	},
+  	{
+		"repository": "android_vendor_samsung_galaxysmtd",
+		"target_path": "vendor/samsung/galaxysmtd"
+	},
+	{
+		"repository": "android_device_samsung_aries-common",
+		"target_path": "device/samsung/aries-common"
+	},
+	{
+		"repository": "android_vendor_samsung_aries-common",
+		"target_path": "vendor/samsung/aries-common"
+	}
 ]
