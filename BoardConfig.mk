@@ -39,6 +39,3 @@ TARGET_OTA_ASSERT_DEVICE := galaxys,galaxysmtd,GT-I9000,GT-I9000M,GT-I9000T
 # Import the aries-common BoardConfigCommon.mk
 include device/samsung/aries-common/BoardConfigCommon.mk
 
-ifdef MK_RELEASE
-WITH_DEXPREOPT := true
-endif
